@@ -1,0 +1,23 @@
+{
+  "name": "print-keyboard",
+  "version": "1.0.0",
+  "description": "Schreib ein Programm, das die Datei `keyboard.txt` in diesem Projekt liest und im Terminal ausgibt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatima-prog/print-keyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatima-prog/print-keyboard/issues"
+  },
+  "homepage": "https://github.com/fatima-prog/print-keyboard#readme",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "asciify-image": "^0.1.5"
+  }
+}
